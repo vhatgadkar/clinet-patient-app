@@ -1,0 +1,16 @@
+.PatientApp {
+    text-align: left;
+    color: black;
+    margin-left: 50px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+  }
+
+.PatientApp-header {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: black;
+}
