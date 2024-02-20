@@ -82,7 +82,7 @@ function PatientApp() {
         <input type="text" id="ManageDiagosis" value={ManageDiagosis} onChange={onChange} />
         <br />
         <br />
-        <label htmlFor="explainComment">'Will you like to add a comment?'</label>
+        <label htmlFor="explainComment">Will you like to add a comment?</label>
         <br />
         <input type="text" id="ManageDiagosisComment" value={ManageDiagosisComment} onChange={onChange} />
         <br />
